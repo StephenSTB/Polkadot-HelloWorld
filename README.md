@@ -1,6 +1,6 @@
 # Polkadot-HelloWorld
 
-##Polkadot Hello World Hackathon Projects
+Polkadot Hello World Hackathon Projects
 
 Polkadot Address: 13pj3ZS9tGCeVeghVWMqrxjHifnjTQ7jf81iRgt3DEgisKRt
 
