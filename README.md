@@ -1,12 +1,14 @@
 # Polkadot-HelloWorld
 
-Polkadot Hello World Hackathon Projects
+##Polkadot Hello World Hackathon Projects
 
 ### 1. Launch A Local Substrate Development Chain
 https://github.com/StephenSTB/PolkadotHelloWorld/blob/main/SubstrateTutorial/Images/TransferAndRemark.png
+1
 
 ### 2. Run A Private Substrate Network
 https://github.com/StephenSTB/PolkadotHelloWorld/blob/main/SubstrateTutorial/Images/PrivateLocalNetwork.png
+2
 
 ### 3.  Play With Westend
 https://westend.subscan.io/extrinsic/0xffca7448356be5df361c7e49e7fb22bf659f1449e70179b7563ef1d718a91cf9
@@ -18,6 +20,7 @@ https://github.com/StephenSTB/PolkadotHelloWorld/blob/main/HelloMoonbeam/Submiss
 
 ### 5. Front-End Javascript
 https://github.com/StephenSTB/Polkadot-Front-End-Project
+5
 
 ### 6. Back-End Javascript
 https://github.com/StephenSTB/Polkadot-Back-End
@@ -56,6 +59,7 @@ https://github.com/StephenSTB/PolkadotHelloWorld/blob/main/Forkless-Upgrade/Last
 
 ### 15. Enable NFT Support
 https://github.com/StephenSTB/Polkadot-Acala-NFT
+4.5
 
 ### 16. Enable Multi-Currency Support
 https://github.com/StephenSTB/Polkadot-Acala-Token
