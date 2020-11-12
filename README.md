@@ -77,7 +77,7 @@ https://youtu.be/MSUkOPo_E5c
 6.5
 
 ### 18. Run A Kusama Or Polkadot Node And Add It To Telemetry
-
+https://github.com/StephenSTB/PolkadotHelloWorld/tree/main/Telemetry
 24
 
 
