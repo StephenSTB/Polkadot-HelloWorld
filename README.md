@@ -1,4 +1,4 @@
-# Polkadot-HelloWorld
+# Polkadot HelloWorld!
 
 Polkadot Hello World Hackathon Projects
 
