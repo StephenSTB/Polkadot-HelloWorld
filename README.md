@@ -2,6 +2,8 @@
 
 Polkadot Hello World Hackathon Projects
 
+Substrate Address: 5EtRuEB62UwB47gBXsJqiou8s3o5m6ZbadHEGPtgf9fCh1FN
+
 Polkadot Address: 13pj3ZS9tGCeVeghVWMqrxjHifnjTQ7jf81iRgt3DEgisKRt
 
 Kusama Address: FQ3ZYWxeqx6omVdJa7tcmG91e5KZmNn317yf4Ae8wshS116
