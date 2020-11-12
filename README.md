@@ -1,6 +1,6 @@
 # Polkadot HelloWorld!
 
-Polkadot Hello World Hackathon Projects
+## Polkadot Hello World Hackathon Projects
 
 Substrate Address: 5EtRuEB62UwB47gBXsJqiou8s3o5m6ZbadHEGPtgf9fCh1FN
 
