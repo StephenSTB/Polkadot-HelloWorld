@@ -2,6 +2,11 @@
 
 ##Polkadot Hello World Hackathon Projects
 
+Polkadot Address: 13pj3ZS9tGCeVeghVWMqrxjHifnjTQ7jf81iRgt3DEgisKRt
+
+Kusama Address: FQ3ZYWxeqx6omVdJa7tcmG91e5KZmNn317yf4Ae8wshS116
+
+
 ### 1. Launch A Local Substrate Development Chain
 https://github.com/StephenSTB/PolkadotHelloWorld/blob/main/SubstrateTutorial/Images/TransferAndRemark.png
 1
